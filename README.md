@@ -21,7 +21,7 @@ The goal was to develop **data-driven insights** to help the business increase p
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **Excel** (for initial data recording)
 - **PowerPoint/Canva** (for report visuals)
-- **Jupyter Notebook** (for data processing)
+- **Colab Notebook** (for data processing)
 
 ---
 
