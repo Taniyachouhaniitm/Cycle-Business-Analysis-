@@ -48,6 +48,8 @@ Additional fields:
 🗃️ Dataset Description
 This project uses real-world inventory data collected from a local retail shop, visualized in the following scanned images:
 
+![shop_outside_2](https://github.com/user-attachments/assets/46315630-b4e2-4638-a5fa-7fbf466a4c6e)
+
 ![shop_products_1](https://github.com/user-attachments/assets/df3b8704-1cc3-4940-9d53-a8546c90abba)
 
 ![shop_products_2](https://github.com/user-attachments/assets/4fed3e9c-3a96-4569-be7c-681e78184b7e)
